@@ -16,6 +16,7 @@
     "@strapi/plugin-users-permissions": "5.15.0",
     "@strapi/strapi": "5.15.0",
     "@strapi/plugin-documentation": "5.15.0",
+    "@strapi/plugin-i18n": "5.15.0",
     "better-sqlite3": "11.3.0",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
@@ -23,8 +24,6 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
     "styled-components": "^6.0.0",
-    "strapi-csv-import-export": "^1.0.0",
-    "strapi-plugin-dashboard": "^1.0.2"
   },
   "devDependencies": {},
   "engines": {
